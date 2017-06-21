@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "21315070740",
+    "firebase_url": "https://demo4-ca6a8.firebaseio.com",
+    "project_id": "demo4-ca6a8",
+    "storage_bucket": "demo4-ca6a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21315070740:android:ce8d2c057e801efb",
+        "android_client_info": {
+          "package_name": "com.udit.guessit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21315070740-16nii5rqbevhu2aapt2m8slhhj3li01b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh01FGaFO0BZQe1-CJ4QK_hpwbaVOjXb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
